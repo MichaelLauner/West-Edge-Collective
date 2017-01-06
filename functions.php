@@ -105,7 +105,7 @@ add_action( 'widgets_init', 'west_edge_collective_widgets_init' );
  * Enqueue scripts and styles.
  */
 function west_edge_collective_scripts() {
-	wp_enqueue_style( 'west-edge-collective-style', get_stylesheet_uri() );
+	wp_enqueue_style( 'west-edge-collective-style', get_template_directory_uri() . '/styles/main.css' );
 
 	wp_enqueue_script( 'west-edge-collective-navigation', get_template_directory_uri() . '/js/navigation.js', array(), '20151215', true );
 
