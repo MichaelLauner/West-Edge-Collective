@@ -1,0 +1,42 @@
+// ==========================================================
+
+// 320 and Up
+// Version: 3.0
+// URL: http://stuffandnonsense.co.uk/projects/320andup/
+// Apache License: v2.0. http://www.apache.org/licenses/LICENSE-2.0
+
+// ==========================================================
+
+/* Buttons =================================================== */
+
+.btn {
+  display: inline-block;
+  *display: inline;
+  /* IE7 inline-block hack */
+  *zoom: 1;
+  padding: 6px 11px 6px;
+  margin-bottom: 0;
+  font: {
+    weight: bold;
+    family: $basefont;
+  }
+  @include font-size(12);
+  line-height: $baselineheight;
+  color: $buttoncolor;
+  text-align: center;
+  vertical-align: middle;
+  background-color: $buttonbackground;
+  @include greygrad;
+  border: $buttonborderwidth $buttonborderstyle $buttonbordercolor {
+    bottom-color: $buttonbottombordercolor;
+  }
+  @include border-radius(4px);
+  cursor: pointer;
+  *margin-left: .3em;
+
+  &:visited,
+  &:hover {
+    color: $buttoncolor;
+    text-decoration: none;
+  }
+}

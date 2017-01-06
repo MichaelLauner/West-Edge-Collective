@@ -1,0 +1,50 @@
+// ==========================================================
+
+// 320 and Up
+// Version: 3.0
+// URL: http://stuffandnonsense.co.uk/projects/320andup/
+// Apache License: v2.0. http://www.apache.org/licenses/LICENSE-2.0
+
+// ==========================================================
+
+/* Generic WEC Normalizations ================================= */
+
+// Smoother color transition for links
+a {
+    transition: all 0.3s ease;
+}
+
+// Clear after container
+.content:after,
+.group:after{
+	content: "";
+	display: table;
+	clear: both;
+}
+
+// Caption/gallery styling
+.wp-caption{
+    background: #fff;
+    border: 1px solid #cccccc;
+    max-width: 96%;
+    padding: 5px 3px 10px;
+    text-align: center;
+    clear: both;
+}
+
+.wp-caption-text,
+.gallery-caption{
+    font-size: 12px;
+    line-height: 1.5em;
+    margin: 0;
+    padding: 0 4px 5px;
+}
+
+/* Elements =================================================== */
+
+img {
+	*width: inherit;
+	max-width: 100%;
+	height: auto;
+	border: 0;
+}
