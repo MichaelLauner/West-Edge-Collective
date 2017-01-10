@@ -118,6 +118,18 @@ function west_edge_collective_scripts() {
 add_action( 'wp_enqueue_scripts', 'west_edge_collective_scripts' );
 
 /**
+ *  Remove h1 from the WordPress editor.
+ *
+ *  @param   array  $init  The array of editor settings
+ *  @return  array         The modified edit settings
+ */
+function wp_remove_h1_from_editor( $init ) {
+    $init['block_formats'] = 'Paragraph=p;Heading 2=h2;Heading 3=h3;Heading 4=h4;Heading 5=h5;Heading 6=h6;Preformatted=pre;';
+    return $init;
+}
+add_filter( 'tiny_mce_before_init', 'wp_remove_h1_from_editor' );
+
+/**
  * Implement the Custom Header feature.
  */
 require get_template_directory() . '/inc/custom-header.php';
