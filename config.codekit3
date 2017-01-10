@@ -1363,6 +1363,12 @@
 		"oAP": "\/inc\/template-tags.php",
 		"oF": 0
 		},
+	"\/inc\/wec-dashboard.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/inc\/wec-dashboard.php",
+		"oF": 0
+		},
 	"\/index.php": {
 		"ft": 8192,
 		"oA": 2,
