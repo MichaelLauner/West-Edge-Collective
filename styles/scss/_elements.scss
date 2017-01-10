@@ -40,6 +40,16 @@ a {
     padding: 0 4px 5px;
 }
 
+// Editor Styles
+#tinymce {
+    overflow: visible !important;
+    padding-top: 1px !important;
+    padding-bottom: 1px !important;
+    padding-left: 0 !important;
+    padding-right: 0 !important;
+    margin: 9px 10px;
+}
+
 /* Elements =================================================== */
 
 img {

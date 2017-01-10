@@ -130,6 +130,14 @@ function wp_remove_h1_from_editor( $init ) {
 add_filter( 'tiny_mce_before_init', 'wp_remove_h1_from_editor' );
 
 /**
+ * Load backend editor styles.
+ */
+function editor_styles(){
+	add_editor_style( get_template_directory_uri() . '/styles/main.css' );
+}
+add_action( 'init', 'editor_styles' );
+
+/**
  * Implement the Custom Header feature.
  */
 require get_template_directory() . '/inc/custom-header.php';
