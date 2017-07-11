@@ -28,8 +28,7 @@ html {
   -webkit-overflow-scrolling: touch;
   -webkit-tap-highlight-color: #f3f5f6;
   -webkit-text-size-adjust: 100%;
-  -ms-text-size-adjust: 100%;
-  height: 100%; }
+  -ms-text-size-adjust: 100%; }
 
 body {
   margin: 0;
@@ -41,7 +40,6 @@ body {
   font-size: 1.6rem;
   line-height: 1.6em;
   color: #857c6a;
-  height: 100%;
   text-rendering: optimizeLegibility;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale; }
@@ -454,8 +452,8 @@ text-shadow : none; }*/
   font-size: 1.2rem;
   font-weight: bold;
   white-space: nowrap;
-  color: gray;
-  background-color: #e6e6e6;
+  color: #807f7f;
+  background-color: #e6e5e5;
   -webkit-border-top-right-radius: 9px;
   -webkit-border-bottom-right-radius: 0;
   -webkit-border-bottom-left-radius: 0;
@@ -477,7 +475,7 @@ text-shadow : none; }*/
   -o-transition: background-color 0.25s 0 linear;
   transition: background-color 0.25s 0 linear; }
   .badge:hover {
-    color: gray;
+    color: #807f7f;
     text-decoration: none;
     cursor: pointer; }
 
@@ -817,7 +815,7 @@ input:-moz-placeholder {
 
 .help-block,
 .help-inline {
-  color: gray; }
+  color: #807f7f; }
 
 .help-block {
   display: block;
@@ -896,7 +894,7 @@ input:-moz-placeholder {
   color: #404040;
   text-align: center;
   vertical-align: middle;
-  background-color: #e6e6e6;
+  background-color: #e6e5e5;
   background-image: -webkit-gradient(linear, 0 0, 0 100%, from(white), to(#d9d9d9));
   background-image: -webkit-linear-gradient(top, white, #d9d9d9);
   background-color: #d9d9d9;
@@ -906,7 +904,7 @@ input:-moz-placeholder {
   background-image: linear-gradient(top, white, #d9d9d9);
   background-repeat: repeat-x;
   border: 1px solid #cccccc;
-    border-bottom-color: #b3b3b3;
+    border-bottom-color: #b3b2b2;
   -webkit-border-top-right-radius: 4px;
   -webkit-border-bottom-right-radius: 0;
   -webkit-border-bottom-left-radius: 0;

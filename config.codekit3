@@ -7,7 +7,7 @@
 		"uuidString": "98AA9EE8-294C-46CA-BCE6-50F105C75546"
 		}
 	],
-"creatorBuild": "25479",
+"creatorBuild": "25849",
 "files": {
 	"\/.gitignore": {
 		"ft": 8192,
@@ -331,7 +331,10 @@
 		"oA": 0,
 		"oAP": "\/inc\/advanced-custom-fields-pro\/assets\/images\/sprite.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/inc\/advanced-custom-fields-pro\/assets\/images\/sprite@2x.png": {
 		"ft": 32768,
@@ -339,7 +342,10 @@
 		"oA": 0,
 		"oAP": "\/inc\/advanced-custom-fields-pro\/assets\/images\/sprite@2x.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/inc\/advanced-custom-fields-pro\/assets\/inc\/datepicker\/images\/ui-bg_highlight-soft_0_ffffff_1x100.png": {
 		"ft": 32768,
@@ -347,7 +353,10 @@
 		"oA": 0,
 		"oAP": "\/inc\/advanced-custom-fields-pro\/assets\/inc\/datepicker\/images\/ui-bg_highlight-soft_0_ffffff_1x100.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/inc\/advanced-custom-fields-pro\/assets\/inc\/datepicker\/images\/ui-icons_444444_256x240.png": {
 		"ft": 32768,
@@ -355,7 +364,10 @@
 		"oA": 0,
 		"oAP": "\/inc\/advanced-custom-fields-pro\/assets\/inc\/datepicker\/images\/ui-icons_444444_256x240.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/inc\/advanced-custom-fields-pro\/assets\/inc\/datepicker\/images\/ui-icons_DDDDDD_256x240.png": {
 		"ft": 32768,
@@ -363,7 +375,10 @@
 		"oA": 0,
 		"oAP": "\/inc\/advanced-custom-fields-pro\/assets\/inc\/datepicker\/images\/ui-icons_DDDDDD_256x240.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/inc\/advanced-custom-fields-pro\/assets\/inc\/datepicker\/images\/ui-icons_ffffff_256x240.png": {
 		"ft": 32768,
@@ -371,7 +386,10 @@
 		"oA": 0,
 		"oAP": "\/inc\/advanced-custom-fields-pro\/assets\/inc\/datepicker\/images\/ui-icons_ffffff_256x240.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/inc\/advanced-custom-fields-pro\/assets\/inc\/datepicker\/jquery-ui.css": {
 		"aP": 0,
@@ -435,7 +453,10 @@
 		"oA": 0,
 		"oAP": "\/inc\/advanced-custom-fields-pro\/assets\/inc\/select2\/3\/select2.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/inc\/advanced-custom-fields-pro\/assets\/inc\/select2\/3\/select2x2.png": {
 		"ft": 32768,
@@ -443,7 +464,10 @@
 		"oA": 0,
 		"oAP": "\/inc\/advanced-custom-fields-pro\/assets\/inc\/select2\/3\/select2x2.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/inc\/advanced-custom-fields-pro\/assets\/inc\/select2\/4\/select2.css": {
 		"aP": 0,
@@ -1486,7 +1510,10 @@
 		"oA": 0,
 		"oAP": "\/screenshot.png",
 		"oF": 0,
-		"opt": 0
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/search.php": {
 		"ft": 8192,
@@ -3017,6 +3044,10 @@
 			"active": 0,
 			"optionString": ""
 			},
+		"no-await-in-loop": {
+			"active": 0,
+			"optionString": ""
+			},
 		"no-bitwise": {
 			"active": 0,
 			"optionString": "{'allow': ['~'], 'int32Hint': true}"
@@ -3035,6 +3066,10 @@
 			},
 		"no-class-assign": {
 			"active": 1,
+			"optionString": ""
+			},
+		"no-compare-neg-zero": {
+			"active": 0,
 			"optionString": ""
 			},
 		"no-cond-assign": {
@@ -3237,6 +3272,10 @@
 			"active": 0,
 			"optionString": ""
 			},
+		"no-multi-assign": {
+			"active": 0,
+			"optionString": ""
+			},
 		"no-multi-spaces": {
 			"active": 0,
 			"optionString": "{'exceptions': {'Property': true, 'BinaryExpression': false, 'VariableDeclarator': false, 'ImportDeclaration': false}}"
@@ -3314,6 +3353,10 @@
 			"optionString": ""
 			},
 		"no-proto": {
+			"active": 0,
+			"optionString": ""
+			},
+		"no-prototype-builtins": {
 			"active": 0,
 			"optionString": ""
 			},
@@ -3513,6 +3556,10 @@
 			"active": 0,
 			"optionString": ""
 			},
+		"nonblock-statement-body-position": {
+			"active": 0,
+			"optionString": "'beside'"
+			},
 		"object-curly-newline": {
 			"active": 0,
 			"optionString": "{'ObjectExpression': {'multiline': true}, 'ObjectPattern': {'multiline': true}}"
@@ -3557,9 +3604,17 @@
 			"active": 0,
 			"optionString": "{'destructuring': 'any', 'ignoreReadBeforeAssign': false}"
 			},
+		"prefer-destructuring": {
+			"active": 0,
+			"optionString": "{'array': true, 'object': true}, {'enforceForRenamedProperties': false}"
+			},
 		"prefer-numeric-literals": {
 			"active": 0,
 			"optionString": ""
+			},
+		"prefer-promise-reject-errors": {
+			"active": 0,
+			"optionString": "{'allowEmptyReject': false}"
 			},
 		"prefer-rest-params": {
 			"active": 0,
@@ -3654,6 +3709,10 @@
 			"optionString": ""
 			},
 		"template-curly-spacing": {
+			"active": 0,
+			"optionString": "'never'"
+			},
+		"template-tag-spacing": {
 			"active": 0,
 			"optionString": "'never'"
 			},
@@ -4100,7 +4159,8 @@
 		"autoOutputPathRelativePath": "",
 		"autoOutputPathReplace1": "",
 		"autoOutputPathReplace2": "",
-		"autoOutputPathStyle": 0
+		"autoOutputPathStyle": 0,
+		"quality": 100
 		},
 	"languageDefaultsJS": {
 		"autoOutputAction": 0,
@@ -4123,14 +4183,6 @@
 		"autoOutputPathStyle": 0,
 		"orderOutput": 0,
 		"outputStyle": 1
-		},
-	"languageDefaultsJSX": {
-		"autoOutputAction": 0,
-		"autoOutputPathFilenamePattern": "*.js",
-		"autoOutputPathRelativePath": "",
-		"autoOutputPathReplace1": "jsx",
-		"autoOutputPathReplace2": "js",
-		"autoOutputPathStyle": 0
 		},
 	"languageDefaultsKIT": {
 		"autoOutputAction": 0,
@@ -4193,7 +4245,9 @@
 		"autoOutputPathRelativePath": "",
 		"autoOutputPathReplace1": "",
 		"autoOutputPathReplace2": "",
-		"autoOutputPathStyle": 0
+		"autoOutputPathStyle": 0,
+		"optimizerType": 1,
+		"quality": 100
 		},
 	"languageDefaultsPUG": {
 		"autoOutputAction": 0,
@@ -4278,6 +4332,7 @@
 		},
 	"languageDefaultsUserDefined": [
 		],
+	"overrideExternalServerCSS": 0,
 	"previewPathAddition": "",
 	"skippedFoldersString": "log, _logs, logs, _cache, cache, \/storage\/framework\/sessions, node_modules",
 	"sourceFolderName": "source",
