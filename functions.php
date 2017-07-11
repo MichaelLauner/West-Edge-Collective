@@ -84,6 +84,22 @@ function west_edge_collective_content_width() {
 add_action( 'after_setup_theme', 'west_edge_collective_content_width', 0 );
 
 /**
+ * Enqueue scripts and styles.
+ */
+function west_edge_collective_scripts() {
+	wp_enqueue_style( 'west-edge-collective-style', get_template_directory_uri() . '/styles/main.css' );
+
+	wp_enqueue_script( 'west-edge-collective-navigation', get_template_directory_uri() . '/js/navigation.js', array(), '20151215', true );
+
+	wp_enqueue_script( 'west-edge-collective-skip-link-focus-fix', get_template_directory_uri() . '/js/skip-link-focus-fix.js', array(), '20151215', true );
+
+	if ( is_singular() && comments_open() && get_option( 'thread_comments' ) ) {
+		wp_enqueue_script( 'comment-reply' );
+	}
+}
+add_action( 'wp_enqueue_scripts', 'west_edge_collective_scripts' );
+
+/**
  * Register widget area.
  *
  * @link https://developer.wordpress.org/themes/functionality/sidebars/#registering-a-sidebar
@@ -100,14 +116,6 @@ function west_edge_collective_widgets_init() {
 	) );
 }
 add_action( 'widgets_init', 'west_edge_collective_widgets_init' );
-
-/**
- * Load backend editor styles.
- */
-function editor_styles(){
-	add_editor_style( get_template_directory_uri() . '/styles/main.css' );
-}
-add_action( 'init', 'editor_styles' );
 
 /**
  * Implement the Custom Header feature.
