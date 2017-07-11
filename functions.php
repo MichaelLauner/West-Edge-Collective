@@ -117,6 +117,17 @@ function west_edge_collective_widgets_init() {
 }
 add_action( 'widgets_init', 'west_edge_collective_widgets_init' );
 
+/* ========================================================================================================================
+
+Shortcodes
+
+======================================================================================================================== */
+function wec_button( $atts, $content = null ) {
+    return '<span class="btn">' . do_shortcode($content) . '</span>';
+}
+add_shortcode('btn', 'wec_button');
+add_shortcode('button', 'wec_button');
+
 /**
  * Implement the Custom Header feature.
  */
