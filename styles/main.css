@@ -592,6 +592,11 @@ a {
   padding-right: 0 !important;
   margin: 9px 10px; }
 
+.alignleft,
+.alignright,
+.aligncenter {
+  margin: 0 auto 20px auto; }
+
 /* Elements =================================================== */
 img {
   *width: inherit;

@@ -12,17 +12,19 @@
 // 1. ROOT 					==============================
 
 //========================
-// WP Base ===============
+// WP Base
 //========================
 .size-medium.alignleft,
-.size-large.alignleft{
+.size-large.alignleft,
+.alignleft {
 	float: left;
 	margin-right: 20px;
 	margin-bottom: 5px;
 }
 
 .size-medium.alignright,
-.size-large.alignright{
+.size-large.alignright,
+.alignright {
 	float: right;
 	margin-left: 20px;
 	margin-bottom: 5px;
