@@ -128,14 +128,14 @@ small {
   font-size: 12px;
   font-size: 1.2rem; }
 
-.content-section-inner ul {
+.site-content ul, .wp-editor ul {
   margin: 0 0 1.6em 24px; }
-  .content-section-inner ul li {
+  .site-content ul li, .wp-editor ul li {
     list-style: disc; }
 
-.content-section-inner ol {
+.site-content ol, .wp-editor ol {
   margin: 0 0 1.6em 24px; }
-  .content-section-inner ol li {
+  .site-content ol li, .wp-editor ol li {
     list-style: decimal; }
 
 li ul,
