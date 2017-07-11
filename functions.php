@@ -135,6 +135,11 @@ require get_template_directory() . '/inc/customizer.php';
 require get_template_directory() . '/inc/jetpack.php';
 
 /**
+ * Column Shortcodes.
+ */
+require get_template_directory() . '/inc/column-shortcodes/column-shortcodes.php';
+
+/**
  * Load ACF files.
  */
 require get_template_directory() . '/inc/acf.php';

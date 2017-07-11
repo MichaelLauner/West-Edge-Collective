@@ -18,3 +18,113 @@
 // 7. VENDOR-SPECIFIC 		==============================
 // 8. MODERNIZR 			==============================
 // 9. TEMPLATE SPECIFICS 	==============================
+
+//===========================================================
+// Columns
+//===========================================================
+.one_half,
+.one_third,
+.two_third,
+.one_fourth,
+.three_fourth,
+.one_fifth,
+.two_fifth,
+.three_fifth,
+.four_fifth,
+.one_sixth,
+.five_sixth {
+	float: left;
+}
+.clear_column {
+	clear:both;
+	display:block;
+	font-size:0; height:0;
+	line-height:0; width:100%;
+	overflow: hidden;
+}
+
+/* =Small Margins Template
+-------------------------------------------------------------- */
+.full_width  {
+	width: 100%;
+}
+.one_half {
+	width: 48% !important;
+	margin-right: 4% !important;
+}
+.one_half.last_column {
+	width: 48% !important;
+	margin-right: 0px !important;
+}
+.one_third {
+	width: 30.66% !important;
+	margin-right: 4% !important;
+}
+.one_third.last_column {
+	width: 30.66% !important;
+	margin-right: 0px !important;
+}
+.two_third {
+	width: 65.32% !important;
+	margin-right: 4% !important;
+}
+.two_third.last_column {
+	width: 65.32% !important;
+	margin-right: 0px !important;
+}
+.one_fourth {
+	width: 22% !important;
+	margin-right: 4% !important;
+}
+.one_fourth.last_column {
+	width: 22% !important;
+	margin-right: 0px !important;
+}
+.three_fourth {
+	width: 74% !important;
+	margin-right: 4% !important;
+}
+.three_fourth.last_column {
+	width: 74% !important;
+	margin-right: 0px !important;
+}
+.one_fifth {
+	width: 16% !important;
+	margin-right: 4% !important;
+}
+.one_fifth.last_column {
+	width: 16% !important;
+	margin-right: 0px !important;
+}
+.two_fifth {
+	width: 34% !important;
+	margin-right: 4% !important;
+}
+.two_fifth.last_column {
+	width: 34% !important;
+	margin-right: 0px !important;
+}
+.three_fifth {
+	width: 56% !important;
+	margin-right: 4% !important;
+}
+.three_fifth.last_column {
+	width: 56% !important;
+	margin-right: 0px !important;
+}
+.four_fifth {
+	width: 76% !important;
+	margin-right: 4% !important;
+}
+.four_fifth.last_column {
+	width: 76% !important;
+	margin-right: 0px !important;
+}
+.one_sixth {
+	width: 13.33% !important;
+	margin-right: 4% !important;
+}
+.one_sixth.last_column {
+	width: 13.33% !important;
+	margin-right: 0px !important;
+}
