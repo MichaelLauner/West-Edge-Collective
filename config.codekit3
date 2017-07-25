@@ -1940,6 +1940,16 @@
 		"oAP": "\/styles\/.sass-cache\/dfa13bf5a273e24659080c5731491c2d9844805b\/style.scssc",
 		"oF": 0
 		},
+	"\/styles\/editor-styles-min.css": {
+		"aP": 0,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 2,
+		"oAP": "\/styles\/editor-styles-min-min.css",
+		"oF": 0,
+		"oS": 3
+		},
 	"\/styles\/editor-styles.css": {
 		"aP": 0,
 		"bl": 0,
@@ -2261,10 +2271,10 @@
 		"oF": 0
 		},
 	"\/styles\/scss\/_1024.scss": {
-		"aP": 0,
+		"aP": 1,
 		"bl": 0,
 		"dP": 10,
-		"dS": 0,
+		"dS": 1,
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
@@ -2274,10 +2284,10 @@
 		"uL": 1
 		},
 	"\/styles\/scss\/_1382.scss": {
-		"aP": 0,
+		"aP": 1,
 		"bl": 0,
 		"dP": 10,
-		"dS": 0,
+		"dS": 1,
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
@@ -2287,10 +2297,10 @@
 		"uL": 1
 		},
 	"\/styles\/scss\/_1440.scss": {
-		"aP": 0,
+		"aP": 1,
 		"bl": 0,
 		"dP": 10,
-		"dS": 0,
+		"dS": 1,
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
@@ -2300,10 +2310,10 @@
 		"uL": 1
 		},
 	"\/styles\/scss\/_1752.scss": {
-		"aP": 0,
+		"aP": 1,
 		"bl": 0,
 		"dP": 10,
-		"dS": 0,
+		"dS": 1,
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
@@ -2313,10 +2323,10 @@
 		"uL": 1
 		},
 	"\/styles\/scss\/_2x.scss": {
-		"aP": 0,
+		"aP": 1,
 		"bl": 0,
 		"dP": 10,
-		"dS": 0,
+		"dS": 1,
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
@@ -2326,10 +2336,10 @@
 		"uL": 1
 		},
 	"\/styles\/scss\/_480.scss": {
-		"aP": 0,
+		"aP": 1,
 		"bl": 0,
 		"dP": 10,
-		"dS": 0,
+		"dS": 1,
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
@@ -2339,10 +2349,10 @@
 		"uL": 1
 		},
 	"\/styles\/scss\/_600.scss": {
-		"aP": 0,
+		"aP": 1,
 		"bl": 0,
 		"dP": 10,
-		"dS": 0,
+		"dS": 1,
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
@@ -2352,10 +2362,10 @@
 		"uL": 1
 		},
 	"\/styles\/scss\/_768.scss": {
-		"aP": 0,
+		"aP": 1,
 		"bl": 0,
 		"dP": 10,
-		"dS": 0,
+		"dS": 1,
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
@@ -2365,10 +2375,10 @@
 		"uL": 1
 		},
 	"\/styles\/scss\/_992.scss": {
-		"aP": 0,
+		"aP": 1,
 		"bl": 0,
 		"dP": 10,
-		"dS": 0,
+		"dS": 1,
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
@@ -2378,10 +2388,10 @@
 		"uL": 1
 		},
 	"\/styles\/scss\/_buttons.scss": {
-		"aP": 0,
+		"aP": 1,
 		"bl": 0,
 		"dP": 10,
-		"dS": 0,
+		"dS": 1,
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
@@ -2391,10 +2401,10 @@
 		"uL": 1
 		},
 	"\/styles\/scss\/_color.scss": {
-		"aP": 0,
+		"aP": 1,
 		"bl": 0,
 		"dP": 10,
-		"dS": 0,
+		"dS": 1,
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
@@ -2404,10 +2414,10 @@
 		"uL": 1
 		},
 	"\/styles\/scss\/_elements.scss": {
-		"aP": 0,
+		"aP": 1,
 		"bl": 0,
 		"dP": 10,
-		"dS": 0,
+		"dS": 1,
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
@@ -2417,10 +2427,10 @@
 		"uL": 1
 		},
 	"\/styles\/scss\/_forms.scss": {
-		"aP": 0,
+		"aP": 1,
 		"bl": 0,
 		"dP": 10,
-		"dS": 0,
+		"dS": 1,
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
@@ -2430,10 +2440,10 @@
 		"uL": 1
 		},
 	"\/styles\/scss\/_mixins.scss": {
-		"aP": 0,
+		"aP": 1,
 		"bl": 0,
 		"dP": 10,
-		"dS": 0,
+		"dS": 1,
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
@@ -2443,10 +2453,10 @@
 		"uL": 1
 		},
 	"\/styles\/scss\/_modernizr.scss": {
-		"aP": 0,
+		"aP": 1,
 		"bl": 0,
 		"dP": 10,
-		"dS": 0,
+		"dS": 1,
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
@@ -2456,10 +2466,10 @@
 		"uL": 1
 		},
 	"\/styles\/scss\/_page.scss": {
-		"aP": 0,
+		"aP": 1,
 		"bl": 0,
 		"dP": 10,
-		"dS": 0,
+		"dS": 1,
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
@@ -2469,10 +2479,10 @@
 		"uL": 1
 		},
 	"\/styles\/scss\/_print.scss": {
-		"aP": 0,
+		"aP": 1,
 		"bl": 0,
 		"dP": 10,
-		"dS": 0,
+		"dS": 1,
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
@@ -2482,10 +2492,10 @@
 		"uL": 1
 		},
 	"\/styles\/scss\/_reset.scss": {
-		"aP": 0,
+		"aP": 1,
 		"bl": 0,
 		"dP": 10,
-		"dS": 0,
+		"dS": 1,
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
@@ -2495,10 +2505,10 @@
 		"uL": 1
 		},
 	"\/styles\/scss\/_site.scss": {
-		"aP": 0,
+		"aP": 1,
 		"bl": 0,
 		"dP": 10,
-		"dS": 0,
+		"dS": 1,
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
@@ -2508,10 +2518,10 @@
 		"uL": 1
 		},
 	"\/styles\/scss\/_tables.scss": {
-		"aP": 0,
+		"aP": 1,
 		"bl": 0,
 		"dP": 10,
-		"dS": 0,
+		"dS": 1,
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
@@ -2521,10 +2531,10 @@
 		"uL": 1
 		},
 	"\/styles\/scss\/_texture.scss": {
-		"aP": 0,
+		"aP": 1,
 		"bl": 0,
 		"dP": 10,
-		"dS": 0,
+		"dS": 1,
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
@@ -2534,10 +2544,10 @@
 		"uL": 1
 		},
 	"\/styles\/scss\/_typography.scss": {
-		"aP": 0,
+		"aP": 1,
 		"bl": 0,
 		"dP": 10,
-		"dS": 0,
+		"dS": 1,
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
@@ -2547,10 +2557,10 @@
 		"uL": 1
 		},
 	"\/styles\/scss\/_variables.scss": {
-		"aP": 0,
+		"aP": 1,
 		"bl": 0,
 		"dP": 10,
-		"dS": 0,
+		"dS": 1,
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
@@ -2560,10 +2570,10 @@
 		"uL": 1
 		},
 	"\/styles\/scss\/ie8.scss": {
-		"aP": 0,
+		"aP": 1,
 		"bl": 0,
 		"dP": 10,
-		"dS": 0,
+		"dS": 1,
 		"ft": 4,
 		"ma": 0,
 		"oA": 0,
@@ -2573,10 +2583,10 @@
 		"uL": 1
 		},
 	"\/styles\/scss\/ie9.scss": {
-		"aP": 0,
+		"aP": 1,
 		"bl": 0,
 		"dP": 10,
-		"dS": 0,
+		"dS": 1,
 		"ft": 4,
 		"ma": 0,
 		"oA": 0,
@@ -2586,10 +2596,10 @@
 		"uL": 1
 		},
 	"\/styles\/scss\/main.scss": {
-		"aP": 0,
+		"aP": 1,
 		"bl": 0,
 		"dP": 10,
-		"dS": 0,
+		"dS": 1,
 		"ft": 4,
 		"ma": 0,
 		"oA": 0,
@@ -2629,8 +2639,8 @@
 	},
 "projectAttributes": {
 	"creationDate": 505434814,
-	"displayValue": "west-edge-collective",
-	"displayValueWasSetByUser": 0,
+	"displayValue": "WEC Boiler Theme",
+	"displayValueWasSetByUser": 1,
 	"iconImageName": "meme-dunnoGirl"
 	},
 "projectSettings": {
@@ -4502,10 +4512,10 @@
 		"autoOutputPathReplace2": "css",
 		"autoOutputPathStyle": 1,
 		"createSourceMap": 0,
-		"debugStyle": 0,
+		"debugStyle": 1,
 		"decimalPrecision": 10,
 		"outputStyle": 0,
-		"shouldRunAutoprefixer": 0,
+		"shouldRunAutoprefixer": 1,
 		"shouldRunBless": 0,
 		"useLibsass": 1
 		},
